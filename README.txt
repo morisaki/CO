@@ -1,0 +1,1 @@
+Source code files and related files for replicating the study "An Empirical Investigation on Source Code Comprehension Performance Between Naming and Structural Issues with and without Generative AI Assistance"
