@@ -1,0 +1,9 @@
+1. Do you agree to the "Important Notes" section in the event overview?
+2. How many years of experience do you have developing in Java? 
+3. How many years of experience do you have in commercial development? 
+4. How would you rate your self-estimated programming ability? Ordinal (1 to 6)
+5. Please select your knowledge of the GoF design patterns. Ordinal (1 to 6)
+6. Please select your knowledge of the AbstractFactory pattern. Ordinal (1 to 6)
+7. Please select your knowledge of the Decorator pattern. Ordinal (1 to 6)
+8. Please select your knowledge of the Observer pattern. Ordinal (1 to 6)
+9. Please specify the LLM (Learning Language Master) you plan to use when comprehending the Java source code.
