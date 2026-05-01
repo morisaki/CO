@@ -1,4 +1,4 @@
-1. Do you agree to the "Important Notes" section in the event overview?
+1. Do you agree to the "Important Notes" section in the call for participation?
 2. How many years of experience do you have developing in Java? 
 3. How many years of experience do you have in commercial development? 
 4. How would you rate your self-estimated programming ability? Ordinal (1 to 6)
