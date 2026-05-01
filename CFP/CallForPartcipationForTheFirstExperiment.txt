@@ -1,0 +1,21 @@
+Call for participation
+
+The results of your code comprehension will be published in an anonymized format through papers, blog posts, conference presentations, media outlets, and articles. This study is positioned as a code comprehension experiment.Participants will comprehend approximately 400 lines of Java source code prepared by the organizers,and then answer 9 questions and complete a questionnaire about the source code. The estimated time required is approximately one and a half hours.
+
+Assumed Skills of Participants
+Participants are assumed to possess the following skills: a basic understanding of the Java language specification and experience in Java development; a basic understanding of networking concepts such as sending and receiving data (no knowledge of specific class libraries is assumed).
+
+Use of Submitted Results 
+All results will be anonymized and published in the form of statistical summaries through papers, blog posts, conference presentations, media outlets, and 
+articles.
+
+Steps Required for Participation
+1. Register as a participant: The questionnaire on this page will ask about your knowledge of design patterns, contact information, and development experience. (For research purposes, participants will be divided into groups, and this information will be used for group assignment.)
+2. Comprehend approximately 400 lines of Java source code: After the source code is sent to you, please comprehend it independently by following the provided instructions.
+3. Submit the results of your source code comprehension: Please submit your answers to the questions and the questionnaire about the source code.
+
+Important Notes
+1. Please ensure that you have sufficient time available for the comprehension task (up to approximately two hours).
+2. The results of the Java source code comprehension task will be anonymized and published through papers, blog posts, conference presentations, media outlets, and articles. Anonymized data may also be disclosed or provided to third parties.
+3. The copyright of the target Java source code is held by other researchers and may not be reproduced or used for secondary purposes.
+4. Participants who have already completed the code comprehension task at another session are not required to participate again.
