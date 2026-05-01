@@ -1,0 +1,3 @@
+1. Please enter your participant ID
+2. Please select the LLM you used when comprehending the code from the following options: GitHub Copilot, ChatGPT, Gemini, Claude, other (Please specify)
+3. If you took any breaks during source code comprehension, please specify the total break time in minutes.
