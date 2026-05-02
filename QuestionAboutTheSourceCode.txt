@@ -1,0 +1,69 @@
+Q1
+Which of the following choices represent the conditions when the reset() method returns “IMPOSSIBLE?” Select all that apply. 
+(a)When the channel state is “OPENED”
+(b)When the channel state is “CLOSED” 
+(c)When compression is performed and the channel state is “FAILED” 
+(d)When encryption is performed and the channel state is “FAILED” 
+(e)When logging is performed and the channel state is “FAILED” 
+(f)”IMPOSSIBLE” is never returned
+
+Q2
+Which of the following choices represent the conditions when the open() method returns “IMPOSSIBLE?” Select all that apply. 
+(a)When the channel status is “OPENED” 
+(b)When the channel state is “CLOSED” 
+(c)When the channel state is “FAILED” 
+(d)”IMPOSSIBLE” is never returned
+
+Q3
+Which of the following choices represent the conditions when the transmit() method returns “FALSE”? Select all that apply.
+(a)When the channel status is “OPENED” 
+(b)When the channel state is “CLOSED” 
+(c)When the channel state is “FAILED” 
+(d)”FALSE” is never returned
+
+Q4 
+Which of the following choices represent the conditions when the close() method returns “OK”? Select all that apply.
+(a)When the channel status is “OPENED” 
+(b)When the channel state is “CLOSED” 
+(c)When the channel state is “FAILED” 
+(d)”OK” is never returned
+
+Q5
+Among the following choices, which one is the return value of the open() method under Condition 1? Choose one. 
+Condition 1: Compression: Yes, Encryption: Yes, Logging: No, channelState = FAILED, channel = NULL
+(a)”OK” 
+(b)”FAILURE” 
+(c)”IMPOSSIBLE” 
+(d)No return value
+
+Q6
+Among the following choices, which one is the return value of the reset() method under Condition 2? Choose one. 
+Condition 2: Compression: No, Encryption: No, Logging: Yes channelState = FAILED channel = NULL
+(a)”OK” 
+(b)”FAILURE” 
+(c)”IMPOSSIBLE” 
+(d)No return value
+
+Q7
+If you add error correction coding function to the communication channel, choose the most appropriate item to be added to the code from the following 
+options.
+(a)Operation flag for error correcting coding 
+(b)Channel object for error correcting coding only 
+(c)Accessor method to return the result of error correcting coding 
+(d)Decorator class for error correcting coding
+
+Q8 
+If you add error correction coding function to the communication channel, select all the methods that need to be modified from the following choices.
+(a)Method open() 
+(b)Method transmit 
+(c)Method receive 
+(d)Method reset() 
+(e)Method close()
+
+Q9
+When adding the enumeration value “CREATED,” select all the methods that would need to be modified due to potential issues when invoked while the channel state is “CREATED.” 
+(a)Method open() 
+(b)Method transmit 
+(c)Method receive 
+(d)Method reset() 
+(e)Method close()
